@@ -417,7 +417,11 @@
     },
     {
       "id": "xxl",
-      "name": "2XL"
+      "name": "XXL"
+    },
+    {
+      "id": "3xl",
+      "name": "3XL"
     }
   ],
   "whatsappNumber": "2120679460301"
