@@ -147,10 +147,10 @@
       "notes": "",
       "items": [
         {
-          "id": "classic-fit-L-Deep Black",
+          "id": "classic-fit-XL-Deep Black",
           "productId": "classic-fit",
           "name": "Black Tee / Classic Fit",
-          "size": "L",
+          "size": "XL",
           "color": "Deep Black",
           "quantity": 2,
           "price": 116,
@@ -158,96 +158,8 @@
         }
       ],
       "total": 232,
-      "date": "2026-02-17T21:34:08.959Z",
-      "id": "ord-1771364048961",
-      "status": "pending"
-    },
-    {
-      "fullName": "mohmed",
-      "phone": "0679460301",
-      "city": "moracch",
-      "notes": "",
-      "items": [
-        {
-          "id": "slim-fit-L-Deep Black",
-          "productId": "slim-fit",
-          "name": "Black Tee / Slim",
-          "size": "L",
-          "color": "Deep Black",
-          "quantity": 2,
-          "price": 200,
-          "image": "https://images.pexels.com/photos/7671165/pexels-photo-7671165.jpeg?auto=compress&cs=tinysrgb&w=800"
-        }
-      ],
-      "total": 400,
-      "date": "2026-02-17T19:59:23.472Z",
-      "id": "ord-1771358364418",
-      "status": "processing"
-    },
-    {
-      "fullName": "mohmed",
-      "phone": "0679460301",
-      "city": "moracch",
-      "notes": "9848",
-      "items": [
-        {
-          "id": "slim-fit-M-Deep Black",
-          "productId": "slim-fit",
-          "name": "Black Tee / Slim",
-          "size": "M",
-          "color": "Deep Black",
-          "quantity": 1,
-          "price": 200,
-          "image": "https://images.pexels.com/photos/7671165/pexels-photo-7671165.jpeg?auto=compress&cs=tinysrgb&w=800"
-        }
-      ],
-      "total": 200,
-      "date": "2026-02-15T14:43:34.733Z",
-      "id": "ord-1771166616211",
-      "status": "pending"
-    },
-    {
-      "fullName": "mohmed",
-      "phone": "+212679460301",
-      "city": "moracch",
-      "notes": "",
-      "items": [
-        {
-          "id": "oversized-S-Deep Black",
-          "productId": "oversized",
-          "name": "Black Tee / Oversized",
-          "size": "S",
-          "color": "Deep Black",
-          "quantity": 2,
-          "price": 200,
-          "image": "https://images.pexels.com/photos/7671168/pexels-photo-7671168.jpeg?auto=compress&cs=tinysrgb&w=800"
-        }
-      ],
-      "total": 400,
-      "date": "2026-02-12T22:18:42.787Z",
-      "id": "ord-1770934722826",
-      "status": "pending"
-    },
-    {
-      "fullName": "mohmed",
-      "phone": "+212679460301",
-      "city": "waurzazate",
-      "notes": "",
-      "items": [
-        {
-          "id": "oversized-XL-Deep Black",
-          "productId": "oversized",
-          "name": "Black Tee / Oversized",
-          "size": "XL",
-          "color": "Deep Black",
-          "quantity": 2,
-          "price": 200,
-          "image": "https://images.pexels.com/photos/7671168/pexels-photo-7671168.jpeg?auto=compress&cs=tinysrgb&w=800"
-        }
-      ],
-      "total": 400,
-      "date": "2026-02-12T22:14:19.967Z",
-      "id": "ord-1770934460039",
+      "date": "2026-02-17T21:35:16.842Z",
+      "id": "ord-1771364116844",
       "status": "pending"
     }
   ],
