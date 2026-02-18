@@ -40,10 +40,30 @@
         {
           "name": "Deep Black",
           "hex": "#000000"
+        },
+        {
+          "name": "لون",
+          "hex": "#666666"
         }
       ],
+      "sizes": [
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
       "inventory": {
-        "Deep Black": 23
+        "Deep Black|s": 0,
+        "Deep Black|m": 0,
+        "Deep Black|l": 0,
+        "Deep Black|xl": 0,
+        "Deep Black|xxl": 0,
+        "لون|s": 0,
+        "لون|m": 0,
+        "لون|l": 0,
+        "لون|xl": 0,
+        "لون|xxl": 0
       },
       "visible": true,
       "meta": [
