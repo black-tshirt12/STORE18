@@ -147,28 +147,6 @@
       "notes": "",
       "items": [
         {
-          "id": "classic-fit-XL-Deep Black",
-          "productId": "classic-fit",
-          "name": "Black Tee / Classic Fit",
-          "size": "XL",
-          "color": "Deep Black",
-          "quantity": 2,
-          "price": 116,
-          "image": "https://images.pexels.com/photos/7671167/pexels-photo-7671167.jpeg?auto=compress&cs=tinysrgb&w=800"
-        }
-      ],
-      "total": 232,
-      "date": "2026-02-17T21:35:16.842Z",
-      "id": "ord-1771364116844",
-      "status": "pending"
-    },
-    {
-      "fullName": "mohmed",
-      "phone": "0679460301",
-      "city": "waurzazate",
-      "notes": "",
-      "items": [
-        {
           "id": "classic-fit-L-Deep Black",
           "productId": "classic-fit",
           "name": "Black Tee / Classic Fit",
